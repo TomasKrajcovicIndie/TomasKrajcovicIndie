@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TomasKrajcovicIndie
+- 👀 I’m interested in Game development in Unity and Unreal Engine and Python
+- 🌱 I’m currently learning C++, C#, Python
+- 📫 How to reach me? You can use my mail: tomaskrajcovic@icloud.com
