@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TomasKrajcovicIndie
-- 👀 I’m interested in Game development in Unity and Unreal Engine and Python
-- 🌱 I’m currently learning C++, Python
+- 👋 Hi, I’m Tomáš Krajčovič
+- 👀 I’m interested in Game development in Unity and Unreal Engine, Python, C, Networking
+- 🌱 I’m currently learning C, Python
 - 📫 How to reach me? You can use my mail: tomas@tomaskrajcovic.xyz
 
 <!--START_SECTION:badges-->
